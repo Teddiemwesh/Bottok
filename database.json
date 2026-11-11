@@ -1,0 +1,69 @@
+{
+  "users": {
+    "6206811574": {
+      "id": 6206811574,
+      "username": "Eagle1591",
+      "chatId": 6206811574,
+      "points": 2,
+      "referrals": 0,
+      "referralCode": "X4SP1NQA",
+      "verified": true,
+      "isPremium": false,
+      "dailyClaimsToday": 1,
+      "lastDailyClaim": "Wed Mar 25 2026",
+      "viewsUsedToday": 0,
+      "reactionsUsedToday": 0,
+      "lastDailyReset": "Wed Mar 25 2026",
+      "joinedAt": "2026-03-25T10:10:15.215Z",
+      "updatedAt": "2026-03-25T11:06:14.346Z"
+    },
+    "8583275059": {
+      "id": 8583275059,
+      "username": "shenxidev",
+      "chatId": 8583275059,
+      "points": 0,
+      "referrals": 0,
+      "referralCode": "OP6POUXW",
+      "verified": true,
+      "isPremium": false,
+      "dailyClaimsToday": 0,
+      "lastDailyClaim": null,
+      "viewsUsedToday": 0,
+      "reactionsUsedToday": 30,
+      "lastDailyReset": "Wed Mar 25 2026",
+      "joinedAt": "2026-03-25T10:21:53.543Z",
+      "updatedAt": "2026-03-25T10:22:42.145Z"
+    },
+    "7343892253": {
+      "id": 7343892253,
+      "username": "User7343892253",
+      "chatId": 7343892253,
+      "verified": true,
+      "joinedAt": "2026-03-25T11:07:36.723Z",
+      "updatedAt": "2026-03-25T11:09:35.569Z"
+    }
+  },
+  "admins": [
+    "6206811574",
+    "7343892253"
+  ],
+  "bannedUsers": [],
+  "channels": [
+    "@DENKI_CRASHER",
+    "@MENA_TECH2"
+  ],
+  "bankDetails": {
+    "accountName": "",
+    "accountNumber": "",
+    "bankName": ""
+  },
+  "redeemCodes": {},
+  "pendingPayments": {},
+  "settings": {
+    "botActive": true,
+    "maintenanceMode": false,
+    "lastBackup": "2026-03-25T10:07:54.057Z"
+  },
+  "products": {},
+  "orders": {}
+}
